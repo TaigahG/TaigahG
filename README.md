@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=TaigahG&show_icons=true"/>
 
 <!--
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
